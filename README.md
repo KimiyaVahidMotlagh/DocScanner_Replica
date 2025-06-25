@@ -40,8 +40,16 @@ The UI runs in a `while` loop until the user chooses to exit, creating a live an
 
 Here’s an example of how the sample image can be enhanced with color magic filter document clarity:
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KimiyaVahidMotlagh/DocScanner_Replica/blob/main/imgs/sample.jpg">
- <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/KimiyaVahidMotlagh/DocScanner_Replica/blob/main/imgs/sample.jpg">
-</picture>
+<table align="center" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="original.jpg" alt="Original Document" width="300">
+        <p>Original Image</p>
+      </td>
+      <td align="center">
+        <img src="scanned.jpg" alt="Scanned and Enhanced Document" width="300">
+        <p>Scanned Output</p>
+      </td>
+    </tr>
+</table>    
 
