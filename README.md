@@ -43,7 +43,7 @@ Here’s an example of how the sample image can be enhanced with color magic fil
 <table align="center" cellpadding="10">
     <tr>
       <td align="center">
-        <img src="original.jpg" alt="Original Document" width="300">
+        <img src="https://github.com/KimiyaVahidMotlagh/DocScanner_Replica/blob/main/imgs/sample.jpg" alt="Original Document" width="300">
         <p>Original Image</p>
       </td>
       <td align="center">
