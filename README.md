@@ -47,7 +47,7 @@ Here’s an example of how the sample image can be enhanced with color magic fil
         <p>Original Image</p>
       </td>
       <td align="center">
-        <img src="scanned.jpg" alt="Scanned and Enhanced Document" width="300">
+        <img src="https://github.com/KimiyaVahidMotlagh/DocScanner_Replica/blob/main/imgs/output_filter_3.jpg" alt="Scanned and Enhanced Document" width="300">
         <p>Scanned Output</p>
       </td>
     </tr>
