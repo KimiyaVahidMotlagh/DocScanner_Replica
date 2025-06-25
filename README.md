@@ -3,10 +3,11 @@ Inspired by mobile applications like CamScanner, this project implements a docum
 
 ## Table of Contents
 
-* [Edge Detection and Perspective Correction]()
-* [Filters and Enhancement]()
-* [Real-Time Controls]()
-* [Result Examples]()
+* [Edge Detection and Perspective Correction](https://github.com/KimiyaVahidMotlagh/DocScanner_Replica?tab=readme-ov-file#edge-detection-and-perspective-correction)
+* [Filters and Enhancement](https://github.com/KimiyaVahidMotlagh/DocScanner_Replica?tab=readme-ov-file#filters-and-enhancement)
+* [Real-Time Controls](https://github.com/KimiyaVahidMotlagh/DocScanner_Replica?tab=readme-ov-file#real-time-controls
+)
+* [Result Examples](https://github.com/KimiyaVahidMotlagh/DocScanner_Replica?tab=readme-ov-file#result-examples)
 
 
 ### Edge Detection and Perspective Correction
